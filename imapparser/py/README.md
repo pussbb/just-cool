@@ -18,9 +18,10 @@ x86_64-linux-gnu-g++ -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsym
 if everything is ok you will see
 ```shell
 ewewe$ /usr/bin/python3.5 main.py
-[8, b'wewe', b' sdasdas ', b'UID', b'BODY<1...77>', b'BODY<33.55>[dsfsd sdfdsf sdfdsf]', [], [b'UID', b'00', [b'dodod', b'assa'], b'sdasd', b'asdasd'], b'R\x80']
+[8, b'wewe', b' sdasdas ', b'UID', b'BODY<1...77>', b'BODY<33.55>[dsfsd sdfdsf sdfdsf]', [], [b'UID', b'00', [b'dodod', b'assa'], b'sdasd', b'asdasd']]
 [b'1', [b'UID', b'387', b'ENVELOPE', [b'Wed, 11 Nov 2015 08:37:14 -0500', b' dsfd ( ss ) # ( ', [[b'NIL', b'NIL', b'MAIL-SYSTEM', b'test.centos5486.com'], [[b'NIL', b'NIL', b'MAIL-SYSTEM', b'test.centos5486.com'], [[b'NIL', b'NIL', b'MAIL-SYSTEM', b'test.centos5486.com'], [[b'NIL', b'NIL', b'rtrt-usage-stats', b'rtrt.com'], b'NIL', b'NIL', b'NIL', b'<H0000000000354e1.1447249034.test.centos5486.com@MHS>']]]]]]]
 [b'2', [b'UID', b'383']]
+
 
 Process finished with exit code 0
 
